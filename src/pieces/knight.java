@@ -2,7 +2,7 @@ package pieces;
 
 /**
  * The Knight class extends Piece to create an instance of the Knight Piece. 
- * @author Akin Aksay, Manupreeth Vallala
+ * @author Akin Aksay
  *
  */
 
