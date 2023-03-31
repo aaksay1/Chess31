@@ -2,7 +2,7 @@ package pieces;
 
 /**
  * The Piece class that every chess piece extends to
- * @author Akin Aksay, Manupreeth Vallala
+ * @author Akin Aksay
  *
  */
 
