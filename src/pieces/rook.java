@@ -2,7 +2,7 @@ package pieces;
 
 /**
  * The Rook class extends Piece to create an instance of the Rook Piece. 
- * @author Akin Aksay, Manupreeth Vallala
+ * @author Akin Aksay
  *
  */
 
