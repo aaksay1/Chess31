@@ -16,7 +16,7 @@ import pieces.rook;
  * Where the game is played and where all the components
  * of the program come together
  *
- * @author Akin Aksay, Manupreeth Vallala
+ * @author Akin Aksay
  */
 public class Chess {
 
