@@ -22,4 +22,3 @@ and inputs neccesary to have it work
 ### Who do I talk to? ###
 
 * Akin Aksay
-* Manupreeth Vallala 
