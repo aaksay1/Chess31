@@ -2,7 +2,7 @@ package pieces;
 
 /**
  * The Pawn class extends Piece to create an instance of the Pawn Piece. 
- * @author Akin Aksay, Manupreeth Vallala
+ * @author Akin Aksay
  *
  */
 public class pawn extends piece{
