@@ -2,7 +2,7 @@ package pieces;
 
 /**
  * The King class extends Piece to create an instance of the King Piece. 
- * @author Akin Aksay, Manupreeth Vallala
+ * @author Akin Aksay
  *
  */
 
