@@ -12,7 +12,7 @@ import pieces.rook;
  * Create the board object with functionality of drawBoard 
  * and createBoard
  *
- * @author Akin Aksay, Manupreeth Vallala
+ * @author Akin Aksay
  */
 
 public class board {
