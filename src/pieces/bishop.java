@@ -2,7 +2,7 @@ package pieces;
 
 /**
  * The Bishop class extends Piece to create an instance of the Bishop Piece. 
- * @author Akin Aksay, Manupreeth Vallala
+ * @author Akin Aksay
  *
  */
 
