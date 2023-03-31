@@ -2,7 +2,7 @@ package pieces;
 
 /**
  * The Queen class extends Piece to create an instance of the Queen Piece. 
- * @author Akin Aksay, Manupreeth Vallala
+ * @author Akin Aksay
  *
  */
 
